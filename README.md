@@ -7,6 +7,6 @@
 # CRUD-JAVA-DB-MySQL
 
 <h1>CRUD com MySQL </h1>
-Criação de um crud MySQL utilizando o NetBeans e a biblioteca de conexão do mysql " mysql-connector-java-5.1.23-bin.jar ", operações efetuadas pelo console e 
+Criação de um crud MySQL utilizando o NetBeans e a biblioteca de conexão do mysql " mysql-connector-j-8.0.31.jar ", operações efetuadas pelo console e 
 utilizando a classe scanner
 
